@@ -1,0 +1,15 @@
+Nesses links abaixo é possível acessar a Implementação (Código Fonte),
+o Artigo produzido, 
+os Slides da Apresentação,
+o Vídeo mostrando como o Código funciona e sua Execução,
+um Vídeo Resultante do procedimento,
+e o link do projeto Overleaf.
+
+Google drive:
+https://drive.google.com/drive/folders/1hUg0-uE7-uteK7dXJ0ztck5So7ANu6te?usp=sharing
+
+Overleaf:
+https://www.overleaf.com/6196684187bpxmvprrmnpf
+
+Link Colab:
+https://colab.research.google.com/drive/1wid4BM8XKyYf5ResqtaUjcxX4p8p3KQA?usp=sharing
